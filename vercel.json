@@ -1,16 +1,7 @@
 {
   "version": 2,
   "name": "leashes-and-lullabies",
-  "builds": [
-    {
-      "src": "index.html",
-      "use": "@vercel/static"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/$1"
-    }
-  ]
+  "public": true,
+  "cleanUrls": true,
+  "trailingSlash": false
 }
