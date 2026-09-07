@@ -1,0 +1,10 @@
+{
+  "name": "leashes-and-lullabies",
+  "version": "1.0.0",
+  "description": "Dog care and babysitting website for Mayleen",
+  "scripts": {},
+  "keywords": ["static", "website", "pet-care", "babysitting"],
+  "author": "Mayleen - Leashes & Lullabies",
+  "license": "UNLICENSED",
+  "private": true
+}
